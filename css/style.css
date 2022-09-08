@@ -49,6 +49,10 @@
 {
     border-bottom: 2px solid white ;
 }
+.lg{
+    margin-bottom: 5% ;  
+
+}
 .banner{
     margin-top: 8%;
     color: white;
@@ -216,15 +220,16 @@
     font-weight: 600;
     margin: 70px 0;
 }
-.footer input{
+.footer input {
     width: 60%;
     background: transparent;
     outline: none;
     border: 0;
     border-bottom: 1px solid white ;
     padding: 10px;
-    margin-bottom: 30px;
+    margin: 30px auto;
     text-align: center;
+   
 }
 ::placeholder{
     color: white;
@@ -247,4 +252,6 @@
     color: white;
     display: block;
 }
+
+
 
