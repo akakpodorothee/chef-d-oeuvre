@@ -72,8 +72,8 @@
 <!-- =================================INSERTION DE VIDEO===================== -->
     <section>
         <h1>Chanson</h1>
-        <video controls="controls" width="320" height="240"><source src="./video/ghetto.mp4" type=video/mp4> </video>
         
+            <iframe width="320" height="240" src="https://www.youtube.com/embed/zkiSa2YC8wc" title="Kaatal feat Mic Flammez - RDV Au Sommet (Clip Officiel)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </section>
 
     

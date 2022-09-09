@@ -142,7 +142,9 @@
 /* .feature{
     margin-top: 50%;
 } */
-
+.gospel .container{
+    display: flex;
+}
 
 .feature, .explore {
    margin-top: 15px;
