@@ -28,5 +28,5 @@ $sql = "INSERT INTO chant (name, body)
                                  $message);
         mysqli_stmt_execute($stmt);  
         
-        echo "Record saved.";
+        echo "commentaire enrégistré.";
 ?>
