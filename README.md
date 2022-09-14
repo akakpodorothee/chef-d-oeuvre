@@ -12,4 +12,3 @@ La page nous contacter et le blog est reservé pour le back-end.La page nous con
 La page blog consiste à faire le commentaire du chanson qui est sur mon site.
 
 Notons que à l'entête de chaque page il y'a deux liens le premier "REJOINDRE"  nous amène sur la page musique quand on est sur une autre page le deuxième "EXPLORE PLUS" est un lien youtube qui permet de découvrir un peu de tout de la musique togolaise. Le  pied de chaque page il y'a un newsletter qui consiste à s'abonner à mon site.
-
