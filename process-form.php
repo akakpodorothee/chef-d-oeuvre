@@ -10,10 +10,10 @@ if (! $terms) {
     die("Terms must be accepted");
 }
 
-$host = "localhost";
-$dbname = "message_db";
-$username = "root";
-$password = "";
+ $host= "mysql-dorothee.alwaysdata.net";
+    $dbname= "dorothee_base2";
+    $username= "dorothee";
+    $password= "dorothee@2210";
 
 $conn = mysqli_connect($host, $username, $password, $dbname);
 

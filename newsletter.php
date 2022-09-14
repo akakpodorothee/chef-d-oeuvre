@@ -1,9 +1,9 @@
 <?php  
  
-    $host= "localhost";
-    $dbname= "message_db";
-    $username= "root";
-    $password= "";
+    $host= "mysql-dorothee.alwaysdata.net";
+    $dbname= "dorothee_base2";
+    $username= "dorothee";
+    $password= "dorothee@2210";
     $conn= mysqli_connect($host,$username,$password,$dbname);   
     $email = $_POST["Email"];
     $sql = "INSERT INTO letter (email)

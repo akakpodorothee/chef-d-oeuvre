@@ -3,11 +3,10 @@ $name = $_POST["name"];
 $message = $_POST["message"];
 
 
-$host = "localhost";
-$dbname = "espace_commentaire";
-$username = "root";
-$password = "";
-
+$host= "mysql-dorothee.alwaysdata.net";
+$dbname= "dorothee_base1";
+$username= "dorothee";
+$password= "dorothee@2210";
 $conn = mysqli_connect($host, $username, $password, $dbname);
 
 if (mysqli_connect_errno()){
